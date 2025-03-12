@@ -4,10 +4,10 @@ This repository contains the code supporting the paper "Global synthesis of peer
 
 ## Scripts
 
-*`tokenize_papers.ipynb`* – Tokenizes full-text papers into sentences and preprocesses text.
-*`read_annotated_papers.ipynb`* – Reads annotated papers from the annotation software Inception.
-*`extract_hazard_information_abstract.ipynb`* – Uses LLMs to extract hazard-related information from abstracts.
-*`text_classification.ipynb`* – Provides the base code for classifying text, used both for detecting relevant papers and selecting impact sentences.
+- *`tokenize_papers.ipynb`* – Tokenizes full-text papers into sentences and preprocesses text.
+- *`read_annotated_papers.ipynb`* – Reads annotated papers from the annotation software Inception.
+- *`extract_hazard_information_abstract.ipynb`* – Uses LLMs to extract hazard-related information from abstracts.
+- *`text_classification.ipynb`* – Provides the base code for classifying text, used both for detecting relevant papers and selecting impact sentences.
 
 ## Data
 
